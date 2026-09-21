@@ -69,3 +69,10 @@ void advanced_vec() {
         cout << "X: " << p.first << ", Y: " << p.second << "\n";
     }
 }
+
+int main() {
+    f1();
+    f2();
+    f3();
+    advanced_vec();
+}
